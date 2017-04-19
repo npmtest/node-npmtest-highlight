@@ -1,6 +1,6 @@
 # npmtest-highlight
 
-#### test coverage for  [highlight (v0.2.4)](https://github.com/andris9/highlight#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-highlight.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-highlight) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-highlight.svg)](https://travis-ci.org/npmtest/node-npmtest-highlight)
+#### basic test coverage for  [highlight (v0.2.4)](https://github.com/andris9/highlight#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-highlight.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-highlight) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-highlight.svg)](https://travis-ci.org/npmtest/node-npmtest-highlight)
 
 #### Highlight code syntax with node.js
 
